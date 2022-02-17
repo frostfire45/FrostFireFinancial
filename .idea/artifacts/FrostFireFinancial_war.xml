@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="FrostFireFinancial:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>FrostFireFinancial</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="FrostFireFinancial-0.0.1-SNAPSHOT.war">
+      <element id="artifact" artifact-name="FrostFireFinancial:war exploded" />
+    </root>
+  </artifact>
+</component>
